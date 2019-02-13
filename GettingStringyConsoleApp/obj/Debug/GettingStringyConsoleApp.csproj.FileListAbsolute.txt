@@ -1,0 +1,7 @@
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\stringy-console-app\GettingStringyConsoleApp\GettingStringyConsoleApp\bin\Debug\GettingStringyConsoleApp.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\stringy-console-app\GettingStringyConsoleApp\GettingStringyConsoleApp\bin\Debug\GettingStringyConsoleApp.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\stringy-console-app\GettingStringyConsoleApp\GettingStringyConsoleApp\bin\Debug\GettingStringyConsoleApp.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\stringy-console-app\GettingStringyConsoleApp\GettingStringyConsoleApp\obj\Debug\GettingStringyConsoleApp.csprojAssemblyReference.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\stringy-console-app\GettingStringyConsoleApp\GettingStringyConsoleApp\obj\Debug\GettingStringyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\stringy-console-app\GettingStringyConsoleApp\GettingStringyConsoleApp\obj\Debug\GettingStringyConsoleApp.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\stringy-console-app\GettingStringyConsoleApp\GettingStringyConsoleApp\obj\Debug\GettingStringyConsoleApp.pdb
